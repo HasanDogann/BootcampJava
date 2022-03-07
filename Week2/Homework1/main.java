@@ -1,4 +1,4 @@
-package BootcampJava.Week2;
+package BootcampJava.Week2.Homework1;
 import java.util.Scanner;
 public class main{
 static double  avg;
